@@ -1,0 +1,126 @@
+# Binaries
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio files
+.vscode/
+*.vs/
+*.suo
+*.ntvs*
+*.njsproj.user
+*.sln.docstates
+*.suo
+*.user
+*.bak
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.dsym
+*.emproj
+*.fxcop
+*.ilk
+*.log
+*.mlmeta
+*.msscci
+*.ntvs*
+*.opensdf
+*.pbxproj
+*.pdm
+*.pgc
+*.pgd
+*.pidb
+*.pri
+*.prl
+*.psess
+*.scc
+*.sdf
+*.sqlite
+*.sqlite3
+*.suo
+*.tlog
+*.trx
+*.usertype.dat
+*.vcxproj.filters
+*.vcxproj.*
+*.xcuserdata
+*.xcworkspace
+*.xsl
+*.bak
+*.idb
+*.pdb
+*.vcproj
+*.ncb
+*.log
+*.aps
+*.pch
+*.obj
+*.vspscc
+*.vssscc
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.opendb
+*.VC.db
+
+# Compiled output
+/dist/
+/tmp/
+/out-tsc/
+
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# Log files
+/logs/
+*.log
+
+# IDEs and editors
+/.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Cache and build directories
+/.sass-cache/
+/bower-cache/
+/bower_components/
+/.npm/
+/.node_modules/
+/.vscode/
+/.cache/
+/.vs/
+*.swp
+
+# Miscellaneous
+/.DS_Store
+/.env
+/.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+
+# npm
+*.pnp.*
+.pnp.js
+
+# Angular specific files
+.angular-cli.json
+.angular-config.json
